@@ -32,7 +32,7 @@
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/dovie/OneDrive/Desktop/Việt anh/Deep Learning/Animals",
+    "last_opened_file_path": "C:/Users/dovie/OneDrive/Desktop/Việt anh/Deep Learning/Animals/src/accuracy_each_epoch",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -41,6 +41,11 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\dovie\OneDrive\Desktop\Việt anh\Deep Learning\Animals\src\accuracy_each_epoch" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -57,7 +62,7 @@
       <option name="presentableId" value="Default" />
       <updated>1758968741196</updated>
       <workItem from="1758968742603" duration="63000" />
-      <workItem from="1759029936853" duration="1222000" />
+      <workItem from="1759029936853" duration="1527000" />
     </task>
     <servers />
   </component>
